@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/xiaoyang4011/air_client#readme",
   "dependencies": {
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "serialport": "^4.0.7"
   }
 }
