@@ -1,0 +1,25 @@
+{
+  "name": "air_client",
+  "version": "1.0.0",
+  "description": "air_client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyang4011/air_client.git"
+  },
+  "keywords": [
+    "air_client"
+  ],
+  "author": "liuxiaoyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoyang4011/air_client/issues"
+  },
+  "homepage": "https://github.com/xiaoyang4011/air_client#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
